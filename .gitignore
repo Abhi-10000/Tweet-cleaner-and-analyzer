@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Data (Too large for GitHub)
+sentiment140.csv
+
+# Generated Database
+*.db

@@ -1,0 +1,8 @@
+pandas
+nltk
+langchain
+langchain-groq
+dotenv
+scikit-learn
+sentence-transformers
+streamlit
